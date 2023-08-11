@@ -18,6 +18,8 @@ efficiency. The analysis will provide valuable recommendations for the hotel cha
 * Excel
 * Powerpoint
 
+![name-of-you-image](https://github.com/Virat992/Hospitality-Industry-Revenue-Insights/blob/main/Insights%20%26%20Findings/Dashboard.png)
+
 # Project Overview
 
 ## Data Cleaning and Preparation
