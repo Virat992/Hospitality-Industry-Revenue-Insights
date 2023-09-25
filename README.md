@@ -1,7 +1,7 @@
 # Hotel Booking and Revenue Insights
 ## by Virat Gajjar
 
-## Overview
+# Project Overview
 This project focuses on examining a comprehensive dataset that includes booking and revenue details for a (fictional) prominent five-star hotel
 chain. Our goal is to extract key insights from the data to optimize revenue, identify trends, and enhance overall operational
 efficiency. The analysis will provide valuable recommendations for the hotel chain's success.
@@ -20,7 +20,6 @@ efficiency. The analysis will provide valuable recommendations for the hotel cha
 
 ![name-of-you-image](https://github.com/Virat992/Hospitality-Industry-Revenue-Insights/blob/main/Insights%20%26%20Findings/Dashboard.png)
 
-# Project Overview
 
 ## Data Cleaning and Preparation
 - Performed data cleaning on the provided dataset.
